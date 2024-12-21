@@ -30,6 +30,7 @@ The dataset includes information on loan applications and repayment history, ena
 
 The dataset includes three key files:
 
+[application_data.csv](./Datasets/application_data.csv)
 application_data.csv: Contains all the information provided by the client at the time of application. This includes data related to whether a client has experienced payment difficulties.
 
 previous_application.csv: Contains information about the client’s previous loan data, detailing whether the previous application was Approved, Cancelled, Refused, or if an offer was Unused.
